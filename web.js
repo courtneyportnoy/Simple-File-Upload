@@ -1,4 +1,5 @@
 // base dependencies for app
+//adding a comment here
 var express = require('express')
   , passport = require('passport')
   , mongoose = require('mongoose')
